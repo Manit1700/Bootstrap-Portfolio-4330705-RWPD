@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;500;600;700&display=swap');
 
 body {
-    cursor: url("assets/images/Arrow.png"), auto;
     font-family: "Bai Jamjuree", sans-serif;
     line-height: 1.7;
 }
@@ -17,7 +16,6 @@ body {
 }
 
 a {
-    cursor: url("assets/images/Pointer.png"), auto;
     text-decoration: none;
 }
 
