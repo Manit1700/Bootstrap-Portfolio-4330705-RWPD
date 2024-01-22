@@ -8,8 +8,10 @@ This is a portfolio website created using Bootstrap. The website showcases the w
 The website is split into several pages, including:
 
 - Home
-- About
+- Services
 - Work
+- Resume
+- Testimonials
 - Contact
 
 Each page contains information about Steve's work and includes links to his projects.
